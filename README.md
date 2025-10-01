@@ -1,9 +1,9 @@
 # PersonalWebsite
 
-![React](https://img.shields.io/badge/React-18-61dafb)
-![Vite](https://img.shields.io/badge/Vite-5-646cff)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38bdf8)
-![fullPage.js](https://img.shields.io/badge/fullPage.js-react--wrapper-111)
+@REM ![React](https://img.shields.io/badge/React-18-61dafb)
+@REM ![Vite](https://img.shields.io/badge/Vite-5-646cff)
+@REM ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38bdf8)
+@REM ![fullPage.js](https://img.shields.io/badge/fullPage.js-react--wrapper-111)
 
 @REM My personal website built with **React + Vite + TailwindCSS**, using `fullPage.js` for smooth section scrolling.
 
