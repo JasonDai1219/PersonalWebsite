@@ -49,11 +49,13 @@ export default function App() {
             <ReactFullpage.Wrapper>
               {/* 你的四个 section，保持或替换成下面这些类名 */}
               <section
-              className="section flex flex-col items-center justify-center text-white"
-              style={{ backgroundImage: "linear-gradient(to bottom, #1e3a8a, #1d4ed8)" }}
+                className="section flex flex-col items-center justify-center text-white"
+                style={{ backgroundImage: "linear-gradient(to bottom, #1e3a8a, #fb923c)" }}
               >
-                <h1 className="text-5xl md:text-6xl font-bold tracking-tight">Jason Dai</h1>
-                <p className="mt-4 text-lg/7 text-white/80">Data Science · ML · Systems</p>
+                <h1 className="!text-[120px] md:!text-[160px] font-extrabold tracking-tight">
+                  Jason Dai
+                </h1>
+                <p className="mt-4 !text-[60px] text-white/80">Data Scientist · Machine Learning Engineer · Data Analyst</p>
               </section>
 
               {/* About */}
